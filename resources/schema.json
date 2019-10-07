@@ -1,0 +1,82 @@
+[
+  {
+    "name": "id",
+    "type": "INTEGER",
+    "description": ""
+  },
+  {
+    "name": "name",
+    "type": "STRING",
+    "description": ""
+  },
+  {
+    "name": "host_id",
+    "type": "INTEGER",
+    "description": ""
+  },
+  {
+    "name": "host_name",
+    "type": "STRING",
+    "description": ""
+  },
+  {
+    "name": "neighbourhood_group",
+    "type": "STRING",
+    "description": ""
+  },
+  {
+    "name": "neighbourhood",
+    "type": "STRING",
+    "description": ""
+  },
+  {
+    "name": "latitude",
+    "type": "FLOAT",
+    "description": ""
+  },
+  {
+    "name": "longtiude",
+    "type": "FLOAT",
+    "description": ""
+  },
+  {
+    "name": "room_type",
+    "type": "STRING",
+    "description": ""
+  },
+  {
+    "name": "price",
+    "type": "INTEGER",
+    "description": ""
+  },
+  {
+    "name": "minimum_nights",
+    "type": "INTEGER",
+    "description": ""
+  },
+  {
+    "name": "number_of_reviews",
+    "type": "INTEGER",
+    "description": ""
+  },
+  {
+    "name": "last_review",
+    "type": "DATE",
+    "description": ""
+  },
+  {
+    "name": "reviews_per_month",
+    "type": "FLOAT",
+    "description": ""
+  },
+  {
+    "name": "calculated_host_listings_count",
+    "type": "INTEGER",
+    "description": ""
+  },
+  {
+    "name": "availability_365",
+    "type": "INTEGER",
+    "description": ""
+  }
+]
