@@ -5,7 +5,10 @@
 3. in the Dataflow job, apply a "Group By" transform to get the count of listings by the "neighbourhood" field.
 4. store both the original csv data and the transformed data into their own separate BigQuery tables.
 
-![Image description](https://github.com/TsungChinHanKen/Cloud-Dataflow-Batch-Processing/blob/master/resources/diagram.png =250x250)
+
+<img src="https://github.com/TsungChinHanKen/Cloud-Dataflow-Batch-Processing/blob/master/resources/diagram.png" alt="alt text" width="200" height="500">
+
+
 
 ### gcloud command - project setting and check
 
