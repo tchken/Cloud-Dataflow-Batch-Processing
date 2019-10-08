@@ -27,6 +27,7 @@
 - deactivate (after job)
 
 - pip freeze -r requirements.txt (enviroment setup)
+- pip install apache-beam
 
 
 ### Execute pipeline (Local DirectRunner)
