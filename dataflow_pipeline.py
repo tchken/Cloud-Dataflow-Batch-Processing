@@ -136,7 +136,7 @@ def run(argv=None):
     schema_2 = parse_table_schema_from_json(data_process.schema_str_2) # output schema for transformed data
 
     # !
-     """Initiate the pipeline:
+    """Initiate the pipeline:
      using the pipeline arguments passed in from the commnd line.
      example:
          python dataflow_pipeline.py --project=$PROJECT\
