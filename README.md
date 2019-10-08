@@ -21,7 +21,7 @@
 
 - bq show -j --project_id=<project_id dataflow_job>
 
-### Local setup
+### Connect to cloud shell, setup, and install apache-beam
 - python2.7 -m virtual env
 - source env/bin/activate
 - deactivate (after job)
