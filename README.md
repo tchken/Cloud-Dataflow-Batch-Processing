@@ -7,7 +7,7 @@
 
 <img src="https://github.com/TsungChinHanKen/Cloud-Dataflow-Batch-Processing/blob/master/resources/diagram.png" alt="alt text" width="400" height="500">
 
-### gcloud command - project setting and check
+### gcloud command - connecting cloud shell, project setting, and check
 
 - gcloud auth list
 - gcloud config list project
@@ -21,7 +21,7 @@
 
 - bq show -j --project_id=<project_id dataflow_job>
 
-### Connect to cloud shell, setup, and install apache-beam
+### Additional setup and install apache-beam
 - python2.7 -m virtual env
 - source env/bin/activate
 - deactivate (after job)
