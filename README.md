@@ -5,7 +5,7 @@
 3. in the Dataflow job, apply a "Group By" transform to get the count of listings by the "neighbourhood" field.
 4. store both the original csv data and the transformed data into their own separate BigQuery tables.
 
-![Image description](/Users/tsung-chin.han/ZDOC/SpringML/Screen Shot 2019-10-08 at 1.53.02 AM.png)
+![Image description](https://github.com/TsungChinHanKen/Cloud-Dataflow-Batch-Processing/blob/master/resources/diagram.png)
 
 ### gcloud command - project setting and check
 
