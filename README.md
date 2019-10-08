@@ -38,7 +38,7 @@
 --runner=DataflowRunner\
 --staging_location=gs://$PROJECT/temp\
 --temp_location gs://$PROJECT/temp\
---input gs://$PROJECT/AB_NYC_2019.csv --save_main_session
+--input gs://$PROJECT/datafilename.csv --save_main_session
 
 
 
