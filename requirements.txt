@@ -7,5 +7,5 @@ google-cloud-pubsub==0.42.1
 google-cloud-storage==1.17.0
 google-cloud-vision==0.38.0
 mock==2.0.0
-numpy==1.14.2
+numpy==1.22.0
 six==1.12.0
